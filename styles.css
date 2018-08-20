@@ -55,3 +55,12 @@
     background-repeat: no-repeat;
     align-self: flex-end;
 }
+.dark__section__text {
+    padding-left: 10%;
+    align-self: center;
+}
+.dark__text, .align-right, .icons, .try__btn {
+    color: white;
+    flex-direction: column;
+    align-self: center;
+}
